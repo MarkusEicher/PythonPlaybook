@@ -1,3 +1,4 @@
 .env
 l*
 conda.txt
+__pycache__/
